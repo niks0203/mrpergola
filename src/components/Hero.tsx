@@ -98,7 +98,7 @@ export default function Hero() {
                 <br />
                 <span className="mt-2 inline-block text-[10px] font-semibold uppercase tracking-[0.16em] text-white/95 sm:text-[11px] sm:tracking-[0.22em] md:text-xs md:tracking-[0.28em]">
                   {t(
-                    "Crafted to Proud Canadian Building Code 2020 and ASCE 7-16 Standard | 272km/hr-170mph",
+                    "Crafted to Canadian Building Code 2020 and ASCE 7-16 Standard | 272km/hr-170mph",
                   )}
                 </span>
               </p>
