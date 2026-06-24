@@ -1,0 +1,18 @@
+node_modules/
+build/
+dist/
+public/assets/**/*.mp4
+public/assets/**/*.mov
+public/assets/**/*.webm
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local Netlify folder
+.netlify
+*.mp4
+*.mov
+*.avi
+*.webm

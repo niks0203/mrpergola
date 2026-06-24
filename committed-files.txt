@@ -1,0 +1,174 @@
+.env.example
+.gitignore
+DEPLOYMENT.md
+README.md
+Static Website.zip
+index.html
+metadata.json
+netlify.toml
+package-lock.json
+package.json
+public/assets/16x16-slat.jpg
+public/assets/20x20_Side-privacy-Custom.jpg
+public/assets/4 season.png
+public/assets/About-ATF-1024x601.jpg
+public/assets/Classic Pergola Top on Existing Structure..jpeg
+public/assets/Classic-Pergola-Carousal.jpg
+public/assets/Classic-Pergola-Top-on-Existing-Structure.jpg
+public/assets/Custom-Structure.jpg
+public/assets/Double_Residential_V1_LR.jpg
+public/assets/Gallery-6.jpg
+public/assets/Gallery-Image-4-Saisons.jpg
+public/assets/Home.jpg
+public/assets/Lifestyle images/DroneBenFinished (2).mp4
+public/assets/Lifestyle images/DroneBenFinished.mp4
+public/assets/Lifestyle images/MKT-Final-clip.mp4
+public/assets/Lifestyle images/Screenshot 2026-05-21 005716.png
+public/assets/Lifestyle images/Tony-Fillice-final-clip-1 (1).mp4
+public/assets/Lifestyle images/Tony-Fillice-final-clip-1.mp4
+public/assets/Modern-Pergola.jpg
+public/assets/Mr-Pergola-Gallery-Image-Jun-02.jpg
+public/assets/Mr-Pergola-Gallery-Image-Jun-03.jpg
+public/assets/MrPergola_30Sec-Spot_Export-NO VOICE.mp4
+public/assets/PG_26-10-24.jpg
+public/assets/Pergola-Res-K_V3_LR-updated.jpg
+public/assets/Pergola1.mp4
+public/assets/What-We-Offer.jpg
+public/assets/What-is-Mr-Pergola.jpg
+public/assets/WhatsApp Video 2026-05-02 at 5.28.43 PM.mp4
+public/assets/White-roof.jpg
+public/assets/about/DSC_5225.jpg
+public/assets/about/DSC_5258.jpg
+public/assets/about/DSC_5285.jpg
+public/assets/about/DSC_5317 1.jpg
+public/assets/accessories/Accessories-Page-Picture.jpg
+public/assets/accessories/Privacy-Slat-1024x576.jpg
+public/assets/accessories/Sliding-Glass-doors-Closed-1024x576.jpg
+public/assets/accessories/Sliding-Glass-doors-open-1024x576.jpg
+public/assets/accessories/clip-on-table-1.jpg
+public/assets/accessories/clip-on-table-2.jpg
+public/assets/accessories/flowerpot-1-1.jpg
+public/assets/accessories/flowerpot-2.jpg
+public/assets/accessories/flowerpot-3.jpg
+public/assets/accessories/flowerpot-4.jpg
+public/assets/accessories/hammock-suspension-system-1.png
+public/assets/accessories/hammock-suspension-system-2.png
+public/assets/accessories/heavy-suspension-system-1.png
+public/assets/accessories/heavy-suspension-system-2.png
+public/assets/accessories/light-object-hanger.png
+public/assets/accessories/mosqito-neting-updated-1024x576.jpg
+public/assets/brc/cn.pdf
+public/assets/brc/usa.pdf
+public/assets/carl/2 moderns Rooftop.png
+public/assets/carl/Classic 9_v3_LR.jpg
+public/assets/carl/Classic Commercial Lshape.jpg
+public/assets/carl/Modern 14 x 14.jpg
+public/assets/carl/Modern 16 x16.jpg
+public/assets/carl/White Modern 20 x 16.png
+public/assets/contact/Background-removed-green-logo.webp
+public/assets/contact/Hictory-decks-logo.png
+public/assets/contact/Logo-skyscapes-1-1.webp
+public/assets/contact/Summit-outdoor-living-logo.png
+public/assets/gallery-image-nov-4th.jpg
+public/assets/gallery/commercial/WhatsApp Image 2026-06-12 at 7.06.48 PM (1).jpeg
+public/assets/gallery/commercial/WhatsApp Image 2026-06-12 at 7.06.48 PM.jpeg
+public/assets/gallery/commercial/WhatsApp Image 2026-06-18 at 8.26.45 AM (1).jpeg
+public/assets/gallery/commercial/WhatsApp Image 2026-06-18 at 8.26.45 AM.jpeg
+public/assets/gallery/commercial/WhatsApp Image 2026-06-18 at 8.26.46 AM (1).jpeg
+public/assets/gallery/commercial/WhatsApp Image 2026-06-18 at 8.26.46 AM.jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.46 PM.jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.47 PM (1).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.47 PM (2).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.47 PM.jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.48 PM (1).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.48 PM (10).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.48 PM (2).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.48 PM (3).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.48 PM (4).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.48 PM (5).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.48 PM (6).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.48 PM (7).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.48 PM (8).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.48 PM (9).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.48 PM.jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.49 PM (1).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.49 PM (2).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.49 PM (3).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.49 PM (4).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.49 PM (5).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-12 at 7.06.49 PM.jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-18 at 8.26.44 AM.jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-18 at 8.26.45 AM (2).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-18 at 8.26.46 AM (2).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-18 at 8.26.46 AM (3).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-18 at 8.26.46 AM (4).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-18 at 8.26.46 AM (5).jpeg
+public/assets/gallery/res/WhatsApp Image 2026-06-20 at 1.47.55 AM.jpeg
+public/assets/hero.mp4
+public/assets/images-removebg-preview.png
+public/assets/logo/eng-transparent.png
+public/assets/logo/eng.png
+public/assets/logo/french-transparent.png
+public/assets/logo/french.png
+public/assets/privacy-slat-homepage.jpg
+public/assets/technicals/2nd beam comparison image.png
+public/assets/technicals/2nd-beam-comparison-image.png
+public/assets/technicals/3-Base-Foot.jpg
+public/assets/technicals/4-Base-Foot.jpg
+public/assets/technicals/AI new comparison louvre image for tech page.png
+public/assets/technicals/AI-new-comparison-louvre-image-for-tech-page.png
+public/assets/technicals/Aluminimum-Cover.jpg
+public/assets/technicals/Beam-Comparison-English-Image.jpg
+public/assets/technicals/Competition-Corner.jpg
+public/assets/technicals/Corner.png
+public/assets/technicals/Extended-White-Wall-Mount.jpg
+public/assets/technicals/F Louvre Comparaison.png
+public/assets/technicals/F Poutre Comparaison .png
+public/assets/technicals/Inside-Out-Test.jpg
+public/assets/technicals/Inside-Test.png
+public/assets/technicals/Lock-Small-Logo.jpg
+public/assets/technicals/Outside-In-Test.jpg
+public/assets/technicals/Somfy-Logo.jpg
+public/assets/technicals/Tech-2.png
+public/assets/technicals/Thickness-1024x727.png
+public/assets/technicals/WhatsApp Image 2026-06-13 at 8.46.20 PM.jpeg
+public/assets/technicals/beam/eng.jpeg
+public/assets/technicals/beam/french.jpeg
+public/assets/technicals/louvre/english.jpeg
+public/assets/technicals/louvre/french.jpeg
+src/App.tsx
+src/components/ComparisonTable.tsx
+src/components/Contact.tsx
+src/components/Features.tsx
+src/components/Footer.tsx
+src/components/Gallery.tsx
+src/components/Hero.tsx
+src/components/Navbar.tsx
+src/components/ProductShowcase.tsx
+src/components/QuickHighlights.tsx
+src/components/RequireAdminAuth.tsx
+src/components/SeasonComparisonTable.tsx
+src/components/Testimonials.tsx
+src/components/ThemeToggle.tsx
+src/context/LanguageContext.tsx
+src/context/ThemeContext.tsx
+src/context/supplementalTranslations.ts
+src/index.css
+src/lib/adminAuth.ts
+src/lib/utils.ts
+src/main.tsx
+src/pages/About.tsx
+src/pages/Accessories.tsx
+src/pages/AdminDashboard.tsx
+src/pages/AdminLogin.tsx
+src/pages/Blog.tsx
+src/pages/BlogPost.tsx
+src/pages/ContactPage.tsx
+src/pages/FAQs.tsx
+src/pages/GalleryPage.tsx
+src/pages/Home.tsx
+src/pages/Professionals.tsx
+src/pages/Technicals.tsx
+src/vite-env.d.ts
+tsconfig.json
+vite.config.ts

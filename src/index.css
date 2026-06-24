@@ -1,0 +1,143 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Inter:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Montserrat", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Cormorant Garamond", serif;
+
+  --color-luxury-cream: #F7F1E6;
+  --color-luxury-gold: #C5A059;
+  --color-luxury-black: #050D1A;
+  --color-luxury-gray: #5F5136;
+  --color-luxury-olive: #5A4B2E;
+}
+
+/* Tailwind 4 Dark Mode Strategy */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  html.dark {
+    --color-luxury-black: #030811;
+  }
+
+  body {
+    @apply bg-luxury-cream text-luxury-black font-sans antialiased transition-colors duration-700 dark:bg-luxury-black dark:text-luxury-cream;
+    font-feature-settings: "ss01", "ss02", "cv01", "cv02";
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-normal tracking-tight leading-[1.1];
+  }
+
+  p {
+    @apply leading-relaxed;
+  }
+
+  ::selection {
+    @apply bg-luxury-gold text-luxury-cream;
+  }
+
+  /* Restrained luxury light mode: warm ivory surfaces + espresso contrast */
+  html.light body {
+    background-color: #FAF9F6;
+    color: #050D1A;
+  }
+
+  html.light .bg-white {
+    background-color: #FFFFFF;
+  }
+
+  html.light .bg-white\/50 {
+    background-color: rgba(255, 255, 255, 0.82);
+  }
+
+  html.light .bg-luxury-cream {
+    background-color: #F7F1E6;
+  }
+
+  html.light .bg-luxury-cream\/80 {
+    background-color: rgba(247, 241, 230, 0.9);
+  }
+
+  html.light .bg-luxury-black\/5 {
+    background-color: rgba(5, 13, 26, 0.05);
+  }
+
+  html.light .bg-luxury-black\/10 {
+    background-color: rgba(5, 13, 26, 0.1);
+  }
+
+  html.light .text-luxury-gray {
+    color: #5B4B30;
+  }
+
+  html.light .text-luxury-gold {
+    color: #8B692C;
+  }
+
+  html.light .hover\:text-luxury-gold:hover {
+    color: #8B692C;
+  }
+
+  html.dark .text-luxury-gray {
+    color: #D9CDBA;
+  }
+
+  html.dark .dark\:text-gray-300 {
+    color: #ECE2D3;
+  }
+
+  html.dark .dark\:text-gray-400 {
+    color: #D6C9B5;
+  }
+
+  html.dark .dark\:text-luxury-cream\/40 {
+    color: rgba(247, 241, 230, 0.66);
+  }
+
+  html.dark .dark\:text-luxury-cream\/55 {
+    color: rgba(247, 241, 230, 0.74);
+  }
+
+  html.dark .dark\:text-luxury-cream\/60 {
+    color: rgba(247, 241, 230, 0.8);
+  }
+
+  html.dark .dark\:text-luxury-cream\/65 {
+    color: rgba(247, 241, 230, 0.84);
+  }
+
+  html.dark .dark\:text-luxury-cream\/70 {
+    color: rgba(247, 241, 230, 0.88);
+  }
+
+  html.dark .dark\:text-luxury-cream\/75 {
+    color: rgba(247, 241, 230, 0.9);
+  }
+
+  html.light .border-luxury-black\/5 {
+    border-color: rgba(5, 13, 26, 0.12);
+  }
+
+  html.light .border-luxury-black\/10 {
+    border-color: rgba(5, 13, 26, 0.18);
+  }
+
+  html.light .hover\:bg-white:hover {
+    background-color: #F7F1E6;
+  }
+
+  html.light .shadow-sm {
+    box-shadow: 0 6px 18px rgba(5, 13, 26, 0.08);
+  }
+
+  html.light .shadow-lg {
+    box-shadow: 0 14px 30px rgba(5, 13, 26, 0.16);
+  }
+}
+
+@layer utilities {
+  .text-luxury-gradient {
+    @apply bg-gradient-to-br from-luxury-gold via-luxury-gold/85 to-luxury-gray bg-clip-text text-transparent;
+  }
+}
