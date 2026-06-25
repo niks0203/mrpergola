@@ -94,7 +94,9 @@ export default function Hero() {
             <div className="relative overflow-hidden rounded-3xl border border-white/20 dark:border-luxury-cream/20 bg-white/10 dark:bg-black/40 backdrop-blur-md px-4 py-6 sm:px-6 sm:py-8 md:px-10 md:py-10 shadow-[0_20px_60px_rgba(0,0,0,0.55)]">
               <div className="absolute left-8 right-8 top-0 h-px bg-gradient-to-r from-transparent via-luxury-gold/50 to-transparent" />
               <p className="text-white text-sm sm:text-base md:text-xl font-medium tracking-[0.06em] sm:tracking-[0.1em] md:tracking-[0.14em] leading-relaxed mb-6 sm:mb-8 drop-shadow-md">
-                {t("MrPergola.com | 100% Aluminum | Adjustable Louvres")}
+                {t(
+                  "MrPergola.com  React Website| 100% Aluminum | Adjustable Louvres",
+                )}
                 <br />
                 <span className="mt-2 inline-block text-[10px] font-semibold uppercase tracking-[0.16em] text-white/95 sm:text-[11px] sm:tracking-[0.22em] md:text-xs md:tracking-[0.28em]">
                   {t(
