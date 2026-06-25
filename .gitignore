@@ -16,3 +16,8 @@ coverage/
 *.mov
 *.avi
 *.webm
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
