@@ -74,7 +74,7 @@ export default function Hero() {
             </span>{" "}
             <br />
             <span className="text-luxury-gold relative inline-block">
-              {t("Living.")}
+              {t("Living!")}
               <motion.div
                 initial={{ width: 0 }}
                 animate={{ width: "100%" }}
